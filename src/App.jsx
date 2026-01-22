@@ -5,7 +5,7 @@ class App extends React.Component {
     return (
       <div style={{ textAlign: "center", marginTop: "80px", fontFamily: "Arial" }}>
         <h1>Hello World</h1>
-        <p>Class Component Demo</p>
+        <p>Class Components Demo</p>
       </div>
     );
   }
